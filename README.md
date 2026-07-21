@@ -1,62 +1,91 @@
-<h1 align="center">💳 Cartão de Apresentação</h1>
+<div align="center">
 
-<p align="center">
-Projeto desenvolvido durante meus estudos de <strong>HTML5</strong> e <strong>CSS3</strong>.
-</p>
+# 💳 Cartão de Apresentação
+
+Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**.
+
+<a href="https://dafnykoda.github.io/projeto-cartao/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Ver_Projeto-DB7DB8?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/dafnykoda/projeto-cartao" target="_blank">
+<img src="https://img.shields.io/badge/📂_Repositório-CB6FA8?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 Demonstração
+## ✨ Sobre o projeto
 
-🔗 **Acesse o projeto:**
+Este projeto foi desenvolvido como parte da minha jornada de aprendizado em desenvolvimento web.
 
-https://dafnykoda.github.io/projeto-cartao/
+O objetivo foi praticar a criação de uma interface simples e organizada utilizando HTML e CSS, aplicando conceitos fundamentais de estruturação, estilização e organização de elementos na página.
 
 ---
 
 ## 📷 Preview
 
-> Em breve...
+<p align="center">
 
-*(Depois vamos colocar uma imagem aqui.)*
+    <img src="preview.png">
 
----
-
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
 </p>
 
 ---
 
-## 📚 O que pratiquei
+## 🚀 Tecnologias
 
-- Estruturação de páginas com HTML5
-- Estilização utilizando CSS3
-- Flexbox
-- Organização de layout
-- Links para redes sociais
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
+</p>
 
 ---
 
-## 📂 Estrutura do projeto
+## 📚 Conceitos praticados
+
+- Estrutura semântica com HTML5
+- Estilização com CSS3
+- Flexbox
+- Organização de arquivos
+- Responsividade básica
+- Links externos
+- Boas práticas de desenvolvimento
+
+---
+
+## 📁 Estrutura do projeto
 
 ```text
-projeto-cartao/
-│
-├── index.html
-├── style.css
-├── README.md
-└── img/
+📦 projeto-cartao
+ ┣ 📂 img
+ ┣ 📄 index.html
+ ┣ 🎨 style.css
+ ┗ 📖 README.md
 ```
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## 🎯 Objetivo
+
+Este projeto faz parte do meu portfólio de estudos e representa minha evolução no desenvolvimento Front-end.
+
+Cada novo projeto publicado busca aplicar novos conceitos aprendidos durante minha formação em Sistemas de Informação.
+
+---
+
+<div align="center">
+
+### 👩🏻‍💻 Desenvolvido por
 
 **Dafny Koda**
 
-[GitHub](https://github.com/dafnykoda)
+<a href="https://github.com/dafnykoda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/dafny-koda-746a21352/)
+<a href="https://www.linkedin.com/in/dafny-koda-746a21352/">
+<img src="https://img.shields.io/badge/LinkedIn-D480BB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
