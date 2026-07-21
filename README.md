@@ -4,6 +4,13 @@
 
 Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**, com foco na criação de um cartão de apresentação moderno e responsivo.
 
+<p align="center">
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</p>
+
 <a href="https://dafnykoda.github.io/projeto-cartao/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Ver_Projeto-DB7DB8?style=for-the-badge" />
 </a>
@@ -19,7 +26,7 @@ Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**, com foco na c
 ## 📷 Preview
 
 <p align="center">
-  <img src="preview.png" alt="Preview do projeto" width="800">
+  <img src="preview.png" alt="Preview do projeto" width="600">
 </p>
 
 ---
