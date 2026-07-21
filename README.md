@@ -19,9 +19,7 @@ Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**, com foco na c
 ## 📷 Preview
 
 <p align="center">
-
-    <img src="preview.png" alt="Preview do projeto" width="800">
-
+  <img src="preview.png" alt="Preview do projeto" width="800">
 </p>
 
 ---
