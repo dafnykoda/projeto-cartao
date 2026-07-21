@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💳 Cartão de Apresentação
+# Cartão de Apresentação
 
-Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**.
+Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**, com foco na criação de um cartão de apresentação moderno e responsivo.
 
 <a href="https://dafnykoda.github.io/projeto-cartao/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Ver_Projeto-DB7DB8?style=for-the-badge" />
@@ -16,19 +16,11 @@ Projeto desenvolvido durante meus estudos de **HTML5** e **CSS3**.
 
 ---
 
-## ✨ Sobre o projeto
-
-Este projeto foi desenvolvido como parte da minha jornada de aprendizado em desenvolvimento web.
-
-O objetivo foi praticar a criação de uma interface simples e organizada utilizando HTML e CSS, aplicando conceitos fundamentais de estruturação, estilização e organização de elementos na página.
-
----
-
 ## 📷 Preview
 
 <p align="center">
 
-    <img src="preview.png">
+    <img src="preview.png" alt="Preview do projeto" width="800">
 
 </p>
 
@@ -76,7 +68,7 @@ Cada novo projeto publicado busca aplicar novos conceitos aprendidos durante min
 
 <div align="center">
 
-### 👩🏻‍💻 Desenvolvido por
+### 🤍 Contato
 
 **Dafny Koda**
 
